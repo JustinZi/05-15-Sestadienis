@@ -19,11 +19,13 @@ img {
 
 .contact {
     padding: 100px 300px;
+    
 }
 
 .container {
     max-width: 1140;
-    margin: 0 left;
+    margin: 0 auto;
+    float: left;
 }
 
 .info-wrapper {
@@ -33,9 +35,8 @@ img {
 }
 
 .form-wrapper {
-    float: right;
+    float:right;
     max-width: 450px;
-    padding-top: 1%;
 }
 
 .form-element {
