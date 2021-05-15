@@ -1,0 +1,60 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 1;
+}
+
+p {
+    color: grey;
+}
+
+img {
+    width: 100%;
+}
+
+.contact {
+    padding: 100px 300px;
+}
+
+.container {
+    max-width: 1140;
+    margin: 0 left;
+}
+
+.info-wrapper {
+    float: left;
+    max-width: 450px;
+    margin-right: 3%;
+}
+
+.form-wrapper {
+    float: right;
+    max-width: 450px;
+    padding-top: 1%;
+}
+
+.form-element {
+    background: #f3f3f3;
+    width: 300px;
+    border: none;
+    margin: 5px;
+    padding: 12px 10px ;
+}
+
+#message {
+    height: 140px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#submit {
+    background: black;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin: 5px 5px;
+}
